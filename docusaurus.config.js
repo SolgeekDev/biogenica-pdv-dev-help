@@ -9,12 +9,12 @@ const config = {
   title: 'Punto de venta',
   tagline: 'Punto de venta de Farmacias Biogenica',
   url: 'https://SolgeekDev.github.io',
-  baseUrl: '/BiogenicaPDVDevHelp/',
+  baseUrl: '/biogenica-pdv-dev-help/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'SolgeekDev', // Usually your GitHub org/user name.
-  projectName: 'BiogenicaPDVDevHelp', // Usually your repo name.
+  projectName: 'biogenica-pdv-dev-help', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
