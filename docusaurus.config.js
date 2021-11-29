@@ -9,7 +9,7 @@ const config = {
   title: 'Punto de venta',
   tagline: 'Punto de venta de Farmacias Biogenica',
   url: 'https://SolgeekDev.github.io',
-  baseUrl: '/biogenicapdv-devhelp/',
+  baseUrl: '/BiogenicaPDVDevHelp/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
