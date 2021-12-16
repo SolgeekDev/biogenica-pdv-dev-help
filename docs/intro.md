@@ -6,7 +6,7 @@ title: Comenzar
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Biogenica - Punto de venta** es una aplicación de escritorio para Windows, desarrollada con `Electron` y `React` para trabajar dentro de Farmacias Biogenica. 
+**Biogenica - Punto de venta** es una aplicación de escritorio para Windows, desarrollada con `Electron` y `React` con el objetivo de trabajar dentro de Farmacias Biogenica. 
 
 ## Clonar el repositorio
 
